@@ -1,0 +1,9 @@
+npm uninstall -g angular-cli @angular/cli
+
+npm cache clean –force
+
+
+npm install -g @angular/cli@latest
+
+ng new app1
+
